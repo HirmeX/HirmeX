@@ -1,4 +1,4 @@
-![Alt Text](file:///C:/Users/shaku/Downloads/sticker.webp)
+![Alt Text](https://stickers.wiki/static/stickers/stickersmonogatari/file_259560.webp?ezimgfmt=rs:128x128/rscb1/ng:webp/ngcb1)
 
 <!--
 **HirmeX/HirmeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
