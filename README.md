@@ -1,4 +1,4 @@
-<img src="https://stickers.wiki/static/stickers/bojackhorseman/file_50789.gif" width="150" height="150" />
+<img src="https://stickers.wiki/static/stickers/bojackhorseman/file_50789.gif" width="190" height="190" />
 
 <!--
 **HirmeX/HirmeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
