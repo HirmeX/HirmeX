@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/105007552/167469766-215f6a05-3bfd-4863-81d0-3468d6864968.png" style="width:130px;"/>
+<img src="https://user-images.githubusercontent.com/105007552/167469766-215f6a05-3bfd-4863-81d0-3468d6864968.png" style="width:120px;"/>
 
 <!--
 **HirmeX/HirmeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
