@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1hq_lLbdT1eDTV2DaUJyr42gra_f52dQs/view" width="150" height="150" />
+![](https://drive.google.com/file/d/1hq_lLbdT1eDTV2DaUJyr42gra_f52dQs/view" width="150" height="150) />
 
 <!--
 **HirmeX/HirmeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
